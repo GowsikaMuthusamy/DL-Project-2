@@ -1,0 +1,3 @@
+ECHO STATE NETWORKS: 
+REAL-TIME SERIES FORECASTING 
+using Deep learning algirithms
